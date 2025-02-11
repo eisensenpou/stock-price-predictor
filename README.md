@@ -59,9 +59,13 @@ README.txt: Project documentation.
 **Technologies Used**
 
 Python
+
 Pandas
+
 Scikit-learn
+
 Keras/TensorFlow (for deep learning models like LSTM)
+
 Matplotlib/Seaborn (for visualizations)
 
 **Contributing**
