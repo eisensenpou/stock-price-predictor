@@ -7,31 +7,28 @@ Predicts stock prices using historical stock data.
 Uses machine learning algorithms like Linear Regression and LSTM (Long Short-Term Memory).
 Data visualizations to understand stock price trends.
 User-friendly interface for easy interaction.
+
 Installation
+
 Clone the repository:
+`git clone https://github.com/eisensenpou/stock-price-predictor.git`
 
-```git clone https://github.com/eisensenpou/stock-price-predictor.git```
+
 Navigate to the project directory:
+`cd stock-price-predictor`
 
 
-```cd stock-price-predictor```
 Install the required dependencies:
-
-```pip install -r requirements.txt```
+`pip install -r requirements.txt`
 
 Ensure you have the necessary API keys or datasets for stock data, as specified in the project documentation.
 
 Usage
 To run the project:
-
 Open the terminal and navigate to the project folder.
-
 Run the prediction script:
-
-
 ```python predict_stock.py```
 Follow the prompts to input stock symbols and other necessary parameters.
-
 The script will output the predicted stock prices and visualizations.
 
 Files
